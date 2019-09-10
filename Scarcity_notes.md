@@ -1248,4 +1248,7 @@ BROCK[13]的商品理论认为任何商品都可以在一定程度上被认为�
 
 产品稀缺诉求(Product Scarcity Appeals，PSA)是 指企业通过传播或促销等方式向目标消费者公开或暗示 预售产品或服务可能存在数量不足的信息，以此来唤起 消费者的注意和购买。 
 
- ![alt](../pics/)
+![pic1](./pics/scarcitu090901.png)
+![pic2](./pics/scarcitu090902.png)
+![pic3](./pics/scarcitu090903.png)
+![pic4](./pics/scarcitu090904.png)

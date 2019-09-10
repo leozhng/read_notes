@@ -270,3 +270,8 @@ Par 1:
 
 Par 2:
 
+![pic1](./pics/scarcitu090901.png)
+![pic2](./pics/scarcitu090902.png)
+![pic3](./pics/scarcitu090903.png)
+![pic4](./pics/scarcitu090904.png)
+
